@@ -8,8 +8,9 @@ Based on the Ondrej's version from 2018.
 
 Modify `.vars` files then run:
 
-    make clean
     make build
+    make publish
 
-Copy `*.html` files and the directory `assets` to the hosting server.
+You can also copy `*.html` files and the directory `assets` to the hosting
+server outside GitHub.
 
