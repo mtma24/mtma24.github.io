@@ -1,0 +1,88 @@
+.editconflict {
+    color: green;
+    font-style:italic;
+    margin-top:1.33em;
+    margin-bottom:1.33em;
+}
+.featured.title,
+.latest.title,
+.featured.title h2 a,
+.latest.title h2 a{color:#0B96D0}.latest-title h2 a:hover,
+.latest.title h2 a:hover, .featured-title h2 a:hover,
+.featured.title h2 a:hover {
+    color:#fff !important;
+}
+.featured.title, .latest.title {
+    background:#000;
+}
+#wikitext a, #wikitext a:visited, p a, p a:visited, .postMeta-post a,
+.postMeta-post a:visited, .featured.post-content h2 a,
+.blogit-page-topigation a, .blogit-page-topigation a:visited,
+.latest.post-content h2, #footer div a:hover,
+#comments .commentmetadata li a {
+    color:#0B96D0;
+}
+#top a:hover, #siteheader ul a:hover, ul #top li.current_page_item a:link,
+ul #top li.current_page_item a:visited,
+ul #top li.current_page_item a:hover,
+ul #top li.current_page_item a:active,
+#siteheader ul li.current_page_item a:link,
+#siteheader ul li.current_page_item a:visited,
+#siteheader ul li.current_page_item a:hover,
+#siteheader ul li.current_page_item a:active {
+    color:#fff !important;
+    background:#000;
+}
+
+#siteheader .sitetitle.logo a, #siteheader.sitetitle a { color:#000; }
+#siteheader .sitetitle a, #siteheader .sitetag { padding-right:10px; }
+#siteheader .sitetitle a.urllink:hover { background:none; }
+
+table.markup {
+    border:2px dotted #ccf;
+    width:90%;
+}
+td.markup1, td.markup2 {
+    padding-left:10px;
+    padding-right:10px;
+}
+table.vert td.markup1 { border-bottom:1px solid #ccf; }
+table.horiz td.markup1 {
+    width:23em;
+    border-right:1px solid #ccf;
+}
+table.markup caption { text-align:left; }
+div.faq p, div.faq pre { margin-left:2em; }
+div.faq p.question {
+    margin:1em 0 0.75em 0;
+    font-weight:bold;
+}
+div.faqtoc div.faq * {
+    display:none;
+}
+div.faqtoc div.faq p.question {
+    display:block;
+    font-weight:normal;
+    margin:0.5em 0 0.5em 20px;
+    line-height:normal;
+}
+div.faqtoc div.faq p.question * {
+    display:inline;
+}
+
+.frame { border:1px solid #cccccc; padding:4px; background-color:#f9f9f9; }
+.lfloat { float:left; margin-right:0.5em; }
+.rfloat { float:right; margin-left:0.5em; }
+a.varlink { text-decoration:none; }
+
+table#past-editions { width:95%; margin-top:10px; }
+table#past-editions tr td { text-align:center; }
+
+table#important-dates tr td:first-child { width:200px; }
+
+#sponsors-grid { text-align: center; }
+#sponsors-grid div.sponsors-element { display:inline; padding:12px; }
+#sp-1 { margin: 15px 0; }
+#sp-2 { margin: 25px 0; }
+#sp-3 { margin: 30px 0; }
+#sp-4 { margin: 10px 0; }
