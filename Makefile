@@ -1,7 +1,7 @@
 SHELL := /bin/bash
 
-#PAGES_OVERVIEW = index.html program.html projects.html venue.html organization.html past.html registration.html program-in-prep.html
-PAGES_OVERVIEW = index.html venue.html organization.html past.html registration.html
+#PAGES_OVERVIEW = index.html projects.html venue.html organization.html past.html registration.html program-in-prep.html
+PAGES_OVERVIEW = index.html venue.html organization.html past.html registration.html projects.html
 
 .PHONY: all build clean publish
 
