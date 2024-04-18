@@ -1,0 +1,4 @@
+2024 Apr 18 Thu 13:57:41 EDT test1 /home/hltcoe/rwicks/mtma24.github.io/assets/logos  1007  cd logos/
+2024 Apr 18 Thu 13:57:41 EDT test1 /home/hltcoe/rwicks/mtma24.github.io/assets/logos  1008  ls
+2024 Apr 18 Thu 13:57:59 EDT test1 /home/hltcoe/rwicks/mtma24.github.io/assets/logos  1009  wget https://www.clsp.jhu.edu/wp-content/uploads/2016/07/Modified-CLSP-Logo-with-Vertical-Text-e1460641018761-300x123.png
+2024 Apr 18 Thu 15:26:28 EDT test1 /home/hltcoe/rwicks/mtma24.github.io/assets/logos  1010  mv Modified-CLSP-Logo-with-Vertical-Text-e1460641018761-300x123.png logo-clsp.png
